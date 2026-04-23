@@ -35,7 +35,7 @@ streamlit run app.py
 ## 📸 Project Screenshots
 
 ### Dashboard Overview
-![Dashboard](<img width="1880" height="595" alt="dashboard" src="https://github.com/user-attachments/assets/5238636f-5f7d-4d24-880f-9532ff193301" />
+![Dashboard](screenshots/<img width="1880" height="595" alt="dashboard" src="https://github.com/user-attachments/assets/a5628459-4caa-428f-bb73-d30595b00af8" />
 )
 
 ### AQI Monitoring Map
