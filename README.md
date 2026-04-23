@@ -31,3 +31,21 @@ This project predicts Air Quality Index (AQI) using Machine Learning and display
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## 📸 Project Screenshots
+
+### Dashboard Overview
+![Dashboard](<img width="1880" height="595" alt="dashboard" src="https://github.com/user-attachments/assets/5238636f-5f7d-4d24-880f-9532ff193301" />
+)
+
+### AQI Monitoring Map
+![Map](screenshots/map.png)
+
+### Pollution Source Analysis
+![Sources](screenshots/sources.png)
+
+### 7-Day AQI Prediction
+![Prediction](screenshots/prediction.png)
+
+### 24-Hour AQI Trend
+![Trend](screenshots/trend.png)
